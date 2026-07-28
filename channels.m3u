@@ -60,9 +60,11 @@ https://live.canthotv.vn/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/thtpct2.png" group-title="XemTV",Cần Thơ 2
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-720p.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/ttv2.png" group-title="Thể Thao",HTV6
-https://ec04-pop3-hht.tv360.vn/bpk-token/prxlon23t2ytp2dipyix23vxg56g5nzx/bpk-tv/304/output/304-audio_208000_eng_iv_5=206000-video_iv_5=6525600.m3u8
+https://vtvgolive-vtv02.vtvdigital.vn/OZ39zbbJo99D6asAIhaoJA/1785262554/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/tbk-hd-backan.png" group-title="Thể Thao",HTV Thể Thao
 https://ec03-pop3-hht.tv360.vn/bpk-token/h6dn4xfv7pnfz7ld555d5bw6lq7ynxs4/bpk-tv/304/output/304-audio_208000_eng_iv_5=206000-video_iv_5=6525600.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/tbk-hd-backan.png" group-title="Thể Thao",HTV Thể Thao
+https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/chunks.m3u8?XSignKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiWC1EUk0iLCJqdGkiOiJmYTRlZTE1Yy1mOGUxLTQwYzUtYWE0ZS05NGZjYTI3Mjc3ZDgiLCJleHRyYURhdGEiOiJUaGlzIGlzIGFkZGl0aW9uYWwgZGF0YSB0byBpbmNyZWFzZSB0aGUgcGF5bG9hZCBzaXplLiIsImV4cCI6MTcyNDEzMjc3OSwiaXNzIjoiaHR2Yy5jb20udm4iLCJhdWQiOiJodHZjLmNvbS52biJ9.iJCmZpy3FfWcvRFqaOyc9ZvSFfJgCe78167HbfOSKQg
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/atv1.png" group-title="XemTV",An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/atv2.png" group-title="XemTV",An Giang 2
