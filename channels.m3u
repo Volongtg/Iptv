@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="XemTV", (VTV1) This m3u file is come from volong0218. Please do not reup. - VTV1
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="XemTV", (VTV1) from volong0218 0344032384. - VTV1
 https://vtvgolive-vtv02.vtvdigital.vn/Ivl_sa9xUupxaRw-a24ZFg/1785258726/hls/vtv/live/vtv1__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv2.png" group-title="XemTV",VTV2
 https://vtvgolive-vtv02.vtvdigital.vn/fq8ZEd6HXamU1bwbTBXfsg/1785184718/hls/vtv/live/vtv2__vtv720p-h264/index.m3u8
@@ -728,761 +728,759 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/strongman.jpg" group-title="XemTV",Strong Man TV
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =01
 https://freem3u.xyz/api/live/play.m3u8?vid=01
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =02
 https://freem3u.xyz/api/live/play.m3u8?vid=02
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =03
 https://freem3u.xyz/api/live/play.m3u8?vid=03
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =04
 https://freem3u.xyz/api/live/play.m3u8?vid=04
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =05
 https://freem3u.xyz/api/live/play.m3u8?vid=05
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =06
 https://freem3u.xyz/api/live/play.m3u8?vid=06
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =07
 https://freem3u.xyz/api/live/play.m3u8?vid=07
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =08
 https://freem3u.xyz/api/live/play.m3u8?vid=08
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =09
 https://freem3u.xyz/api/live/play.m3u8?vid=09
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =10
 https://freem3u.xyz/api/live/play.m3u8?vid=10
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =11
 https://freem3u.xyz/api/live/play.m3u8?vid=11
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =12
 https://freem3u.xyz/api/live/play.m3u8?vid=12
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =13
 https://freem3u.xyz/api/live/play.m3u8?vid=13
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =14
 https://freem3u.xyz/api/live/play.m3u8?vid=14
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =15
 https://freem3u.xyz/api/live/play.m3u8?vid=15
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =16
 https://freem3u.xyz/api/live/play.m3u8?vid=16
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =17
 https://freem3u.xyz/api/live/play.m3u8?vid=17
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =18
 https://freem3u.xyz/api/live/play.m3u8?vid=18
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =19
 https://freem3u.xyz/api/live/play.m3u8?vid=19
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =20
 https://freem3u.xyz/api/live/play.m3u8?vid=20
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =21
 https://freem3u.xyz/api/live/play.m3u8?vid=21
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =22
 https://freem3u.xyz/api/live/play.m3u8?vid=22
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =23
 https://freem3u.xyz/api/live/play.m3u8?vid=23
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =24
 https://freem3u.xyz/api/live/play.m3u8?vid=24
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =25
 https://freem3u.xyz/api/live/play.m3u8?vid=25
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =26
 https://freem3u.xyz/api/live/play.m3u8?vid=26
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =27
 https://freem3u.xyz/api/live/play.m3u8?vid=27
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =28
 https://freem3u.xyz/api/live/play.m3u8?vid=28
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =29
 https://freem3u.xyz/api/live/play.m3u8?vid=29
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =30
 https://freem3u.xyz/api/live/play.m3u8?vid=30
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =31
 https://freem3u.xyz/api/live/play.m3u8?vid=31
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =32
 https://freem3u.xyz/api/live/play.m3u8?vid=32
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =33
 https://freem3u.xyz/api/live/play.m3u8?vid=33
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =34
 https://freem3u.xyz/api/live/play.m3u8?vid=34
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =35
 https://freem3u.xyz/api/live/play.m3u8?vid=35
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =36
 https://freem3u.xyz/api/live/play.m3u8?vid=36
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =37
 https://freem3u.xyz/api/live/play.m3u8?vid=37
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =38
 https://freem3u.xyz/api/live/play.m3u8?vid=38
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =39
 https://freem3u.xyz/api/live/play.m3u8?vid=39
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =40
 https://freem3u.xyz/api/live/play.m3u8?vid=40
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =41
 https://freem3u.xyz/api/live/play.m3u8?vid=41
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =42
 https://freem3u.xyz/api/live/play.m3u8?vid=42
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =43
 https://freem3u.xyz/api/live/play.m3u8?vid=43
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =44
 https://freem3u.xyz/api/live/play.m3u8?vid=44
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =45
 https://freem3u.xyz/api/live/play.m3u8?vid=45
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =46
 https://freem3u.xyz/api/live/play.m3u8?vid=46
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =47
 https://freem3u.xyz/api/live/play.m3u8?vid=47
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =48
 https://freem3u.xyz/api/live/play.m3u8?vid=48
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =49
 https://freem3u.xyz/api/live/play.m3u8?vid=49
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =50
 https://freem3u.xyz/api/live/play.m3u8?vid=50
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =51
 https://freem3u.xyz/api/live/play.m3u8?vid=51
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =52
 https://freem3u.xyz/api/live/play.m3u8?vid=52
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =53
 https://freem3u.xyz/api/live/play.m3u8?vid=53
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =54
 https://freem3u.xyz/api/live/play.m3u8?vid=54
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =55
 https://freem3u.xyz/api/live/play.m3u8?vid=55
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =56
 https://freem3u.xyz/api/live/play.m3u8?vid=56
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =57
 https://freem3u.xyz/api/live/play.m3u8?vid=57
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =58
 https://freem3u.xyz/api/live/play.m3u8?vid=58
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =59
 https://freem3u.xyz/api/live/play.m3u8?vid=59
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =60
 https://freem3u.xyz/api/live/play.m3u8?vid=60
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =61
 https://freem3u.xyz/api/live/play.m3u8?vid=61
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =62
 https://freem3u.xyz/api/live/play.m3u8?vid=62
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =63
 https://freem3u.xyz/api/live/play.m3u8?vid=63
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =64
 https://freem3u.xyz/api/live/play.m3u8?vid=64
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =65
 https://freem3u.xyz/api/live/play.m3u8?vid=65
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =66
 https://freem3u.xyz/api/live/play.m3u8?vid=66
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =67
 https://freem3u.xyz/api/live/play.m3u8?vid=67
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =68
 https://freem3u.xyz/api/live/play.m3u8?vid=68
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =69
 https://freem3u.xyz/api/live/play.m3u8?vid=69
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =70
 https://freem3u.xyz/api/live/play.m3u8?vid=70
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =71
 https://freem3u.xyz/api/live/play.m3u8?vid=71
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =72
 https://freem3u.xyz/api/live/play.m3u8?vid=72
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =73
 https://freem3u.xyz/api/live/play.m3u8?vid=73
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =74
 https://freem3u.xyz/api/live/play.m3u8?vid=74
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =75
 https://freem3u.xyz/api/live/play.m3u8?vid=75
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =76
 https://freem3u.xyz/api/live/play.m3u8?vid=76
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =77
 https://freem3u.xyz/api/live/play.m3u8?vid=77
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =78
 https://freem3u.xyz/api/live/play.m3u8?vid=78
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =79
 https://freem3u.xyz/api/live/play.m3u8?vid=79
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =80
 https://freem3u.xyz/api/live/play.m3u8?vid=80
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =81
 https://freem3u.xyz/api/live/play.m3u8?vid=81
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =82
 https://freem3u.xyz/api/live/play.m3u8?vid=82
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =83
 https://freem3u.xyz/api/live/play.m3u8?vid=83
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =84
 https://freem3u.xyz/api/live/play.m3u8?vid=84
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =85
 https://freem3u.xyz/api/live/play.m3u8?vid=85
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =86
 https://freem3u.xyz/api/live/play.m3u8?vid=86
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =87
 https://freem3u.xyz/api/live/play.m3u8?vid=87
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =88
 https://freem3u.xyz/api/live/play.m3u8?vid=88
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =89
 https://freem3u.xyz/api/live/play.m3u8?vid=89
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =90
 https://freem3u.xyz/api/live/play.m3u8?vid=90
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =91
 https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =92
 https://freem3u.xyz/api/live/play.m3u8?vid=92
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =93
 https://freem3u.xyz/api/live/play.m3u8?vid=93
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =94
 https://freem3u.xyz/api/live/play.m3u8?vid=94
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =95
 https://freem3u.xyz/api/live/play.m3u8?vid=95
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =96
 https://freem3u.xyz/api/live/play.m3u8?vid=96
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =97
 https://freem3u.xyz/api/live/play.m3u8?vid=97
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =98
 https://freem3u.xyz/api/live/play.m3u8?vid=98
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long =99
 https://freem3u.xyz/api/live/play.m3u8?vid=99
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 100
 https://freem3u.xyz/api/live/play.m3u8?vid=100
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 101
 https://freem3u.xyz/api/live/play.m3u8?vid=101
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 102
 https://freem3u.xyz/api/live/play.m3u8?vid=102
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 103
 https://freem3u.xyz/api/live/play.m3u8?vid=103
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 104
 https://freem3u.xyz/api/live/play.m3u8?vid=104
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 105
 https://freem3u.xyz/api/live/play.m3u8?vid=105
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 106
 https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 107
 https://freem3u.xyz/api/live/play.m3u8?vid=107
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 108
 https://freem3u.xyz/api/live/play.m3u8?vid=108
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 109
 https://freem3u.xyz/api/live/play.m3u8?vid=109
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 110
 https://freem3u.xyz/api/live/play.m3u8?vid=110
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 111
 https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 112
 https://freem3u.xyz/api/live/play.m3u8?vid=112
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 113
 https://freem3u.xyz/api/live/play.m3u8?vid=113
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 114
 https://freem3u.xyz/api/live/play.m3u8?vid=114
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 115
 https://freem3u.xyz/api/live/play.m3u8?vid=115
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 116
 https://freem3u.xyz/api/live/play.m3u8?vid=116
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 117
 https://freem3u.xyz/api/live/play.m3u8?vid=117
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 118
 https://freem3u.xyz/api/live/play.m3u8?vid=118
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 119
 https://freem3u.xyz/api/live/play.m3u8?vid=119
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 120
 https://freem3u.xyz/api/live/play.m3u8?vid=120
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 121
 https://freem3u.xyz/api/live/play.m3u8?vid=121
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 122
 https://freem3u.xyz/api/live/play.m3u8?vid=122
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 123
 https://freem3u.xyz/api/live/play.m3u8?vid=123
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 124
 https://freem3u.xyz/api/live/play.m3u8?vid=124
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 125
 https://freem3u.xyz/api/live/play.m3u8?vid=125
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 126
 https://freem3u.xyz/api/live/play.m3u8?vid=126
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 127
 https://freem3u.xyz/api/live/play.m3u8?vid=127
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 128
 https://freem3u.xyz/api/live/play.m3u8?vid=128
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 129
 https://freem3u.xyz/api/live/play.m3u8?vid=129
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 130
 https://freem3u.xyz/api/live/play.m3u8?vid=130
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 131
 https://freem3u.xyz/api/live/play.m3u8?vid=131
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 132
 https://freem3u.xyz/api/live/play.m3u8?vid=132
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 133
 https://freem3u.xyz/api/live/play.m3u8?vid=133
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 134
 https://freem3u.xyz/api/live/play.m3u8?vid=134
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 135
 https://freem3u.xyz/api/live/play.m3u8?vid=135
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 136
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 137
 https://freem3u.xyz/api/live/play.m3u8?vid=137
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 138
 https://freem3u.xyz/api/live/play.m3u8?vid=138
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 139
 https://freem3u.xyz/api/live/play.m3u8?vid=139
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 140
 https://freem3u.xyz/api/live/play.m3u8?vid=140
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 141
 https://freem3u.xyz/api/live/play.m3u8?vid=141
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 142
 https://freem3u.xyz/api/live/play.m3u8?vid=142
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 143
 https://freem3u.xyz/api/live/play.m3u8?vid=143
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 144
 https://freem3u.xyz/api/live/play.m3u8?vid=144
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 145
 https://freem3u.xyz/api/live/play.m3u8?vid=145
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 146
 https://freem3u.xyz/api/live/play.m3u8?vid=146
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 147
 https://freem3u.xyz/api/live/play.m3u8?vid=147
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 148
 https://freem3u.xyz/api/live/play.m3u8?vid=148
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 149
 https://freem3u.xyz/api/live/play.m3u8?vid=149
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 150
 https://freem3u.xyz/api/live/play.m3u8?vid=150
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 151
 https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 152
 https://freem3u.xyz/api/live/play.m3u8?vid=152
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 153
 https://freem3u.xyz/api/live/play.m3u8?vid=153
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 154
 https://freem3u.xyz/api/live/play.m3u8?vid=154
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 155
 https://freem3u.xyz/api/live/play.m3u8?vid=155
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 156
 https://freem3u.xyz/api/live/play.m3u8?vid=156
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 157
 https://freem3u.xyz/api/live/play.m3u8?vid=157
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 158
 https://freem3u.xyz/api/live/play.m3u8?vid=158
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 159
 https://freem3u.xyz/api/live/play.m3u8?vid=159
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 160
 https://freem3u.xyz/api/live/play.m3u8?vid=160
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 161
 https://freem3u.xyz/api/live/play.m3u8?vid=161
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 162
 https://freem3u.xyz/api/live/play.m3u8?vid=162
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 163
 https://freem3u.xyz/api/live/play.m3u8?vid=163
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 164
 https://freem3u.xyz/api/live/play.m3u8?vid=164
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 165
 https://freem3u.xyz/api/live/play.m3u8?vid=165
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 166
 https://freem3u.xyz/api/live/play.m3u8?vid=166
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 167
 https://freem3u.xyz/api/live/play.m3u8?vid=167
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 168
 https://freem3u.xyz/api/live/play.m3u8?vid=168
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 169
 https://freem3u.xyz/api/live/play.m3u8?vid=169
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 170
 https://freem3u.xyz/api/live/play.m3u8?vid=170
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 171
 https://freem3u.xyz/api/live/play.m3u8?vid=171
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 172
 https://freem3u.xyz/api/live/play.m3u8?vid=172
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 173
 https://freem3u.xyz/api/live/play.m3u8?vid=173
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 174
 https://freem3u.xyz/api/live/play.m3u8?vid=174
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 175
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 176
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 177
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 178
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 179
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 180
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 181
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 182
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 183
 https://freem3u.xyz/api/live/play.m3u8?vid=183
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 184
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 185
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 186
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 187
 https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 188
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 189
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 190
 https://freem3u.xyz/api/live/play.m3u8?vid=190
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 191
 https://freem3u.xyz/api/live/play.m3u8?vid=191
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 192
 https://freem3u.xyz/api/live/play.m3u8?vid=192
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 193
 https://freem3u.xyz/api/live/play.m3u8?vid=193
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 194
 https://freem3u.xyz/api/live/play.m3u8?vid=194
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 195
 https://freem3u.xyz/api/live/play.m3u8?vid=195
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 196
 https://freem3u.xyz/api/live/play.m3u8?vid=196
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 197
 https://freem3u.xyz/api/live/play.m3u8?vid=197
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 198
 https://freem3u.xyz/api/live/play.m3u8?vid=198
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 199
 https://freem3u.xyz/api/live/play.m3u8?vid=199
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 200
 https://freem3u.xyz/api/live/play.m3u8?vid=200
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 201
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 202
 https://freem3u.xyz/api/live/play.m3u8?vid=202
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 203
 https://freem3u.xyz/api/live/play.m3u8?vid=203
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 204
 https://freem3u.xyz/api/live/play.m3u8?vid=204
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 205
 https://freem3u.xyz/api/live/play.m3u8?vid=205
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 206
 https://freem3u.xyz/api/live/play.m3u8?vid=206
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 207
 https://freem3u.xyz/api/live/play.m3u8?vid=207
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 208
 https://freem3u.xyz/api/live/play.m3u8?vid=208
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 209
 https://freem3u.xyz/api/live/play.m3u8?vid=209
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 210
 https://freem3u.xyz/api/live/play.m3u8?vid=210
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 211
 https://freem3u.xyz/api/live/play.m3u8?vid=211
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 212
 https://freem3u.xyz/api/live/play.m3u8?vid=212
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 213
 https://freem3u.xyz/api/live/play.m3u8?vid=213
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 214
 https://freem3u.xyz/api/live/play.m3u8?vid=214
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 215
 https://freem3u.xyz/api/live/play.m3u8?vid=215
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 216
 https://freem3u.xyz/api/live/play.m3u8?vid=216
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 217
 https://freem3u.xyz/api/live/play.m3u8?vid=217
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 218
 https://freem3u.xyz/api/live/play.m3u8?vid=218
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 219
 https://freem3u.xyz/api/live/play.m3u8?vid=219
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 220
 https://freem3u.xyz/api/live/play.m3u8?vid=220
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 221
 https://freem3u.xyz/api/live/play.m3u8?vid=221
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 222
 https://freem3u.xyz/api/live/play.m3u8?vid=222
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 223
 https://freem3u.xyz/api/live/play.m3u8?vid=223
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 224
 https://freem3u.xyz/api/live/play.m3u8?vid=224
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 225
 https://freem3u.xyz/api/live/play.m3u8?vid=225
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 226
 https://freem3u.xyz/api/live/play.m3u8?vid=226
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 227
 https://freem3u.xyz/api/live/play.m3u8?vid=227
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 228
 https://freem3u.xyz/api/live/play.m3u8?vid=228
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 229
 https://freem3u.xyz/api/live/play.m3u8?vid=229
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 230
 https://freem3u.xyz/api/live/play.m3u8?vid=230
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 231
 https://freem3u.xyz/api/live/play.m3u8?vid=231
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 232
 https://freem3u.xyz/api/live/play.m3u8?vid=232
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 233
 https://freem3u.xyz/api/live/play.m3u8?vid=233
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 234
 https://freem3u.xyz/api/live/play.m3u8?vid=234
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 235
 https://freem3u.xyz/api/live/play.m3u8?vid=235
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 236
 https://freem3u.xyz/api/live/play.m3u8?vid=236
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 237
 https://freem3u.xyz/api/live/play.m3u8?vid=237
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 238
 https://freem3u.xyz/api/live/play.m3u8?vid=238
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 239
 https://freem3u.xyz/api/live/play.m3u8?vid=239
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 240
 https://freem3u.xyz/api/live/play.m3u8?vid=240
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 241
 https://freem3u.xyz/api/live/play.m3u8?vid=241
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 242
 https://freem3u.xyz/api/live/play.m3u8?vid=242
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 243
 https://freem3u.xyz/api/live/play.m3u8?vid=243
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 244
 https://freem3u.xyz/api/live/play.m3u8?vid=244
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 245
 https://freem3u.xyz/api/live/play.m3u8?vid=245
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 246
 https://freem3u.xyz/api/live/play.m3u8?vid=246
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 247
 https://freem3u.xyz/api/live/play.m3u8?vid=247
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 248
 https://freem3u.xyz/api/live/play.m3u8?vid=248
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 249
 https://freem3u.xyz/api/live/play.m3u8?vid=249
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 250
 https://freem3u.xyz/api/live/play.m3u8?vid=250
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 251
 https://freem3u.xyz/api/live/play.m3u8?vid=251
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 252
 https://freem3u.xyz/api/live/play.m3u8?vid=252
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 253
 https://freem3u.xyz/api/live/play.m3u8?vid=253
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 254
 https://freem3u.xyz/api/live/play.m3u8?vid=254
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 255
 https://freem3u.xyz/api/live/play.m3u8?vid=255
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 256
 https://freem3u.xyz/api/live/play.m3u8?vid=256
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 257
 https://freem3u.xyz/api/live/play.m3u8?vid=257
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 258
 https://freem3u.xyz/api/live/play.m3u8?vid=258
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 259
 https://freem3u.xyz/api/live/play.m3u8?vid=259
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 260
 https://freem3u.xyz/api/live/play.m3u8?vid=260
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 261
 https://freem3u.xyz/api/live/play.m3u8?vid=261
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 262
 https://freem3u.xyz/api/live/play.m3u8?vid=262
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 263
 https://freem3u.xyz/api/live/play.m3u8?vid=263
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 264
 https://freem3u.xyz/api/live/play.m3u8?vid=264
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 265
 https://freem3u.xyz/api/live/play.m3u8?vid=265
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 266
 https://freem3u.xyz/api/live/play.m3u8?vid=266
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 267
 https://freem3u.xyz/api/live/play.m3u8?vid=267
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 268
 https://freem3u.xyz/api/live/play.m3u8?vid=268
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 269
 https://freem3u.xyz/api/live/play.m3u8?vid=269
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 270
 https://freem3u.xyz/api/live/play.m3u8?vid=270
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 271
 https://freem3u.xyz/api/live/play.m3u8?vid=271
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 272
 https://freem3u.xyz/api/live/play.m3u8?vid=272
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 273
 https://freem3u.xyz/api/live/play.m3u8?vid=273
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 274
 https://freem3u.xyz/api/live/play.m3u8?vid=274
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 275
 https://freem3u.xyz/api/live/play.m3u8?vid=275
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 276
 https://freem3u.xyz/api/live/play.m3u8?vid=276
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 277
 https://freem3u.xyz/api/live/play.m3u8?vid=277
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 278
 https://freem3u.xyz/api/live/play.m3u8?vid=278
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 279
 https://freem3u.xyz/api/live/play.m3u8?vid=279
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 280
 https://freem3u.xyz/api/live/play.m3u8?vid=280
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 281
 https://freem3u.xyz/api/live/play.m3u8?vid=281
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 282
 https://freem3u.xyz/api/live/play.m3u8?vid=282
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 283
 https://freem3u.xyz/api/live/play.m3u8?vid=283
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 284
 https://freem3u.xyz/api/live/play.m3u8?vid=284
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 285
 https://freem3u.xyz/api/live/play.m3u8?vid=285
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 286
 https://freem3u.xyz/api/live/play.m3u8?vid=286
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 287
 https://freem3u.xyz/api/live/play.m3u8?vid=287
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 288
 https://freem3u.xyz/api/live/play.m3u8?vid=288
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 289
 https://freem3u.xyz/api/live/play.m3u8?vid=289
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 290
 https://freem3u.xyz/api/live/play.m3u8?vid=290
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 291
 https://freem3u.xyz/api/live/play.m3u8?vid=291
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 292
 https://freem3u.xyz/api/live/play.m3u8?vid=292
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 293
 https://freem3u.xyz/api/live/play.m3u8?vid=293
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 294
 https://freem3u.xyz/api/live/play.m3u8?vid=294
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 295
 https://freem3u.xyz/api/live/play.m3u8?vid=295
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 296
 https://freem3u.xyz/api/live/play.m3u8?vid=296
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 297
 https://freem3u.xyz/api/live/play.m3u8?vid=297
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 298
 https://freem3u.xyz/api/live/play.m3u8?vid=298
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 299
 https://freem3u.xyz/api/live/play.m3u8?vid=299
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 300
 https://freem3u.xyz/api/live/play.m3u8?vid=300
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 301
 https://freem3u.xyz/api/live/play.m3u8?vid=301
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 302
 https://freem3u.xyz/api/live/play.m3u8?vid=302
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 303
 https://freem3u.xyz/api/live/play.m3u8?vid=303
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 304
 https://freem3u.xyz/api/live/play.m3u8?vid=304
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 305
 https://freem3u.xyz/api/live/play.m3u8?vid=305
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 306
 https://freem3u.xyz/api/live/play.m3u8?vid=306
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 307
 https://freem3u.xyz/api/live/play.m3u8?vid=307
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 308
 https://freem3u.xyz/api/live/play.m3u8?vid=308
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 309
 https://freem3u.xyz/api/live/play.m3u8?vid=309
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 310
 https://freem3u.xyz/api/live/play.m3u8?vid=310
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 311
 https://freem3u.xyz/api/live/play.m3u8?vid=311
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 312
 https://freem3u.xyz/api/live/play.m3u8?vid=312
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 313
 https://freem3u.xyz/api/live/play.m3u8?vid=313
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 314
 https://freem3u.xyz/api/live/play.m3u8?vid=314
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 315
 https://freem3u.xyz/api/live/play.m3u8?vid=315
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 316
 https://freem3u.xyz/api/live/play.m3u8?vid=316
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 317
 https://freem3u.xyz/api/live/play.m3u8?vid=317
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 318
 https://freem3u.xyz/api/live/play.m3u8?vid=318
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 319
 https://freem3u.xyz/api/live/play.m3u8?vid=319
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 320
 https://freem3u.xyz/api/live/play.m3u8?vid=320
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 321
 https://freem3u.xyz/api/live/play.m3u8?vid=321
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 322
 https://freem3u.xyz/api/live/play.m3u8?vid=322
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 323
 https://freem3u.xyz/api/live/play.m3u8?vid=323
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 324
 https://freem3u.xyz/api/live/play.m3u8?vid=324
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 325
 https://freem3u.xyz/api/live/play.m3u8?vid=325
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 326
 https://freem3u.xyz/api/live/play.m3u8?vid=326
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 327
 https://freem3u.xyz/api/live/play.m3u8?vid=327
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 328
 https://freem3u.xyz/api/live/play.m3u8?vid=328
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 329
 https://freem3u.xyz/api/live/play.m3u8?vid=329
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 330
 https://freem3u.xyz/api/live/play.m3u8?vid=330
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 331
 https://freem3u.xyz/api/live/play.m3u8?vid=331
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 332
 https://freem3u.xyz/api/live/play.m3u8?vid=332
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 333
 https://freem3u.xyz/api/live/play.m3u8?vid=333
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 334
 https://freem3u.xyz/api/live/play.m3u8?vid=334
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 335
 https://freem3u.xyz/api/live/play.m3u8?vid=335
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 336
 https://freem3u.xyz/api/live/play.m3u8?vid=336
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 337
 https://freem3u.xyz/api/live/play.m3u8?vid=337
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 338
 https://freem3u.xyz/api/live/play.m3u8?vid=338
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 339
 https://freem3u.xyz/api/live/play.m3u8?vid=339
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 340
 https://freem3u.xyz/api/live/play.m3u8?vid=340
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 341
 https://freem3u.xyz/api/live/play.m3u8?vid=341
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 342
 https://freem3u.xyz/api/live/play.m3u8?vid=342
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 343
 https://freem3u.xyz/api/live/play.m3u8?vid=343
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 344
 https://freem3u.xyz/api/live/play.m3u8?vid=344
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 345
 https://freem3u.xyz/api/live/play.m3u8?vid=345
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 346
 https://freem3u.xyz/api/live/play.m3u8?vid=346
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 347
 https://freem3u.xyz/api/live/play.m3u8?vid=347
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 348
 https://freem3u.xyz/api/live/play.m3u8?vid=348
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 349
 https://freem3u.xyz/api/live/play.m3u8?vid=349
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 350
 https://freem3u.xyz/api/live/play.m3u8?vid=350
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 351
 https://freem3u.xyz/api/live/play.m3u8?vid=351
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 352
 https://freem3u.xyz/api/live/play.m3u8?vid=352
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 353
 https://freem3u.xyz/api/live/play.m3u8?vid=353
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 354
 https://freem3u.xyz/api/live/play.m3u8?vid=354
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 355
 https://freem3u.xyz/api/live/play.m3u8?vid=355
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 356
 https://freem3u.xyz/api/live/play.m3u8?vid=356
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 357
 https://freem3u.xyz/api/live/play.m3u8?vid=357
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 358
 https://freem3u.xyz/api/live/play.m3u8?vid=358
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 359
 https://freem3u.xyz/api/live/play.m3u8?vid=359
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 360
 https://freem3u.xyz/api/live/play.m3u8?vid=360
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 361
 https://freem3u.xyz/api/live/play.m3u8?vid=361
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 362
 https://freem3u.xyz/api/live/play.m3u8?vid=362
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 363
 https://freem3u.xyz/api/live/play.m3u8?vid=363
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 364
 https://freem3u.xyz/api/live/play.m3u8?vid=364
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 365
 https://freem3u.xyz/api/live/play.m3u8?vid=365
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 366
 https://freem3u.xyz/api/live/play.m3u8?vid=366
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 367
 https://freem3u.xyz/api/live/play.m3u8?vid=367
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 368
 https://freem3u.xyz/api/live/play.m3u8?vid=368
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 369
 https://freem3u.xyz/api/live/play.m3u8?vid=369
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 370
 https://freem3u.xyz/api/live/play.m3u8?vid=370
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 371
 https://freem3u.xyz/api/live/play.m3u8?vid=371
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 372
 https://freem3u.xyz/api/live/play.m3u8?vid=372
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 373
 https://freem3u.xyz/api/live/play.m3u8?vid=373
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 374
 https://freem3u.xyz/api/live/play.m3u8?vid=374
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 375
 https://freem3u.xyz/api/live/play.m3u8?vid=375
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 376
 https://freem3u.xyz/api/live/play.m3u8?vid=376
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 377
 https://freem3u.xyz/api/live/play.m3u8?vid=377
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",long 378
 https://freem3u.xyz/api/live/play.m3u8?vid=378
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="long test",hbo
-cdnhttps://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
