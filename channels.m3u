@@ -11,7 +11,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="THĐT" tvg-logo="https://vn.xemtv.net/image/thdt2.png" group-title="XemTV",Đồng Tháp 2
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
-#EXTINF:-1 tvg-id="THDT” tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCl2nK4G0XSGLsUUytvQxo2gIr27Vrjz20N_dmtS35FQ&s=10" group-title="XemTV",Đồng Tháp 1
+#EXTINF:-1 tvg-id="THDT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-R0r9_ti3X24kLo90NR6KMNi_cA8J9I6X8OC3P01G4g&s" group-title="XemTV",Đồng Tháp 1
 https://freem3u.xyz/api/live/play.m3u8?vid=54
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://vn.xemtv.net/image/tayninh.png" group-title="XemTV",Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=72
@@ -19,7 +19,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=72
 https://freem3u.xyz/api/live/play.m3u8?vid=47
 #EXTINF:-1 tvg-id="CẦN THƠ" tvg-logo="https://vn.xemtv.net/image/thtpct2.png" group-title="XemTV",Cần Thơ 2
 https://freem3u.xyz/api/live/play.m3u8?vid=61
-#EXTINF:-1 tvg-id="CẦN THƠ" tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="XemTV"Cần Thơ 3
+#EXTINF:-1 tvg-id="CẦN THƠ" tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="XemTV",Cần Thơ 3
 https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF:-1 tvg-id="HTV" tvg-logo="https://vn.xemtv.net/image/ttv2.png" group-title="Thể Thao",HTV6
 https://vtvgolive-vtv02.vtvdigital.vn/OZ39zbbJo99D6asAIhaoJA/1785262554/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
