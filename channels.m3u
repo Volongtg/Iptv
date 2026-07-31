@@ -7,7 +7,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=26
 https://freem3u.xyz/api/live/play.m3u8?vid=219
 #EXTINF:-1 tvg-id="THVL" tvg-logo="https://vn.xemtv.net/image/vinhlong4.png" group-title="XemTV",THVL4 HD
 https://freem3u.xyz/api/live/play.m3u8?vid=220
-#EXTINF:-1 tvg-id="THVL" tvg-logo="https://vn.xemtv.net/image/vinhlong5.png" group-title="XemTV",THVL5 HD
+#EXTINF:-1 tvg-id="THVL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS825Pf5fdF76DEDWGhBSOtY1K4eJTag6V8gbTc7p49Ag&s=10" group-title="XemTV",THVL5 HD
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="THĐT" tvg-logo="https://vn.xemtv.net/image/thdt2.png" group-title="XemTV",Đồng Tháp 2
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
